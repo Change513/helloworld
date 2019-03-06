@@ -4,7 +4,7 @@ public class Main {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             System.out.println("Hello World!");
-            System.out.println("HAHAHA");
+            System.out.println("HAHAHAA");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
